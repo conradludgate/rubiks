@@ -1,0 +1,3 @@
+mod cube;
+
+fn main() {}
